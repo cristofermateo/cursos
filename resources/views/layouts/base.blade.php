@@ -10,6 +10,7 @@
     <title>CRUD laravel 10</title>
 </head>
 <body class="bg-dark text-white">
+    este es el layout
     <div class="container">
         @yield('content')
     </div>
